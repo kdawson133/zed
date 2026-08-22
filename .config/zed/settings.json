@@ -7,7 +7,10 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
-	"hard_tabs": true,
+	"session": {
+  "trust_all_worktrees": true
+ },
+ "hard_tabs": true,
 	"outline_panel": {
 		"dock": "left",
 	},
